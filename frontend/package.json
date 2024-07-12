@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "APP_API_URL",
+  "proxy": "https://mern-stack-4g1v.onrender.com",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
